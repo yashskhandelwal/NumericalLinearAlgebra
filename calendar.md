@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Calendar
+title: Course Timeline
 description: Listing of course modules and topics.
 ---
 
-# Calendar
+# Course Timeline
 
 {% for module in site.modules %}
 {{ module }}

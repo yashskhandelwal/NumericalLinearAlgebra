@@ -1,5 +1,7 @@
 ---
 timeline:
+  - '8:00 AM'
+  - '8:30 AM'
   - '9:00 AM'
   - '9:30 AM'
   - '10:00 AM'
@@ -21,46 +23,54 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+      - name: TA OH
+        start: 3:00 PM
+        end: 4:00 PM
+        location: <a href="https://ucsd.zoom.us/j/97275853909">Zoom</a>
   - name: Tuesday
-  - name: Wednesday
     events:
       - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+        start: 8:00 AM
+        end: 9:30 AM
+        location: Center 203
+  - name: Wednesday
   - name: Thursday
+    events:
+      - name: Lecture
+        start: 8:00 AM
+        end: 9:30 AM
+        location: Center 203
   - name: Friday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+      - name: Instructor OH
+        start: 9:00 AM
+        end: 10:00 AM
+        location: <a href="https://ucsd.zoom.us/j/93356632953">Zoom</a>
 ---
+<!-- schedule:
+  - name: Monday
+    events:
+      - name: TA Office Hours
+        start: 3:00 PM
+        end: 4:00 PM
+        location: <a href="https://ucsd.zoom.us/j/97275853909">Zoom</a>
+  - name: Tuesday
+    events:
+      - name: Lecture
+        start: 8:00 AM
+        end: 9:30 AM
+        location: Center 203
+  - name: Wednesday
+  - name: Thursday
+    events:
+      - name: Lecture
+        start: 8:00 AM
+        end: 9:30 AM
+        location: Center 203
+  - name: Friday
+    events:
+      - name: Instructor Office Hours
+        start: 9:00 AM
+        end: 9:30 AM
+        location: <a href="https://ucsd.zoom.us/j/93356632953">Zoom</a>
+--- -->

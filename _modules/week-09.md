@@ -1,11 +1,11 @@
 ---
-title: Week 2
+title: Week 9
 ---
 
-Apr 5
-: Lec 3: Linear Algebra Basics - II
+May 24
+: Lec 17: Least Squares Regression -  III
 : [blank slides](#) \| [slides](#) \| [recording](#)
 
-Apr 7
-: Lec 4: Linear Algebra Basics - III
+May 26
+: Lec 18: Robustness of Neural Networks - I
 : [blank slides](#) \| [slides](#) \| [recording](#)

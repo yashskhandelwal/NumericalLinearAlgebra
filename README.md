@@ -1,18 +1,45 @@
 ---
 layout: home
-title: Just the Class
+title: Home
 nav_exclude: true
 permalink: index.html
 seo:
   type: Course
-  name: Just the Class
+  name: DSC 291A
 ---
 
-# Just the Class
+# DSC-291A: Numerical Linear Algebra (SP'22)
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+Numerical Linear Algebra is a fundamental tool for data science and machine learning. This course will introduce basic concepts and provide a mathematical foundation for research in machine learning and data science. We will discuss how numerical linear algebra is useful and essential in several key machine learning and data science topics.
 
-- [announcements](announcements.md),
+## Course Contents
+- Fundamentals
+  - matrix
+  - orthogonality
+  - norms
+  - SVD
+  - QR factorization
+  - Gram-Schmidt Orthogonalization
+  - Numerical methods
+- Conditioning and Stability
+- Application to Machine Learning and Data science topics
+  - Least squares problems
+  - Kernel methods
+  - Principal component analysis
+  - Neural network robustness verification
+
+## Course Staff
+
+- Instructor: Prof. Lily Weng, HDSI 
+- TA:  Yash Khandelwal, CSE
+
+For more information, see [this](#) page.
+
+## Course Logistics 
+
+For course logistics, see [this](#) page.
+
+<!-- - [announcements](announcements.md),
 - a [course calendar](calendar.md),
 - a [staff](staff.md) page,
 - and a weekly [schedule](schedule.md).
@@ -36,4 +63,4 @@ Just the Class has been used by instructors at Stanford University ([CS 161](htt
 
 ### Local development environment
 
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll). -->

@@ -1,11 +1,11 @@
 ---
-title: Week 2
+title: Week 4
 ---
 
-Apr 5
-: Lec 3: Linear Algebra Basics - II
+Apr 19
+: Lec 7: System of Linear Equations - II
 : [blank slides](#) \| [slides](#) \| [recording](#)
 
-Apr 7
-: Lec 4: Linear Algebra Basics - III
+Apr 21
+: Lec 8: System of Linear Equations - III
 : [blank slides](#) \| [slides](#) \| [recording](#)

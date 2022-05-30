@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Schedule
-description: The weekly event schedule.
+title: Weekly Schedule 
+description: Weekly calender.
 ---
 
 # Weekly Schedule

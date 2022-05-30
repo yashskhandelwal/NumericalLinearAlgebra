@@ -1,11 +1,11 @@
 ---
-title: Week 2
+title: Week 6
 ---
 
-Apr 5
-: Lec 3: Linear Algebra Basics - II
+May 3
+: Lec 11: Eigenvalue Problem - II
 : [blank slides](#) \| [slides](#) \| [recording](#)
 
-Apr 7
-: Lec 4: Linear Algebra Basics - III
+May 5
+: Lec 12: Eigenvalue Problem - III
 : [blank slides](#) \| [slides](#) \| [recording](#)
