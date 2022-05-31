@@ -18,7 +18,7 @@ tagline: Course website for numerical linear algebra
 description: Course website for numerical linear algebra
 author: Yash Khandelwal
 baseurl: '/nla' # the subpath of your site, e.g. /blog
-url: 'https://nla.ucsd.edu' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://yashsk.com' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
