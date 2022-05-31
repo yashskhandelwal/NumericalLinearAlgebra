@@ -10,7 +10,10 @@ seo:
 
 <div class="centered">
   <div class="center">
-    <img src="./assets/images/UCSD_Seal.png" alt="UCSD Seal"  style="width:100px;height:100px;" class="center"> <img class="logos" src="./assets/images/hdsi.png" alt="HDSI" style="width:100px;height:100px;" >
+    <a href="http://ucsd.edu/">
+    <img src="./assets/images/UCSD_Seal.png" alt="UCSD Seal"  style="width:100px;height:100px;" class="center"> 
+    </a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://datascience.ucsd.edu/"><img class="logos" src="./assets/images/hdsi.png" alt="HDSI" style="width:100px;height:100px;" ></a>
   </div>
 </div>
 
