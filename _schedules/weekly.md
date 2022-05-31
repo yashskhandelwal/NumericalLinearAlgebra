@@ -23,9 +23,10 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: TA OH
+      - name: Office Hours
         start: 3:00 PM
         end: 4:00 PM
+        description: Yash (TA)
         location: <a href="https://ucsd.zoom.us/j/97275853909">Zoom</a>
   - name: Tuesday
     events:
@@ -42,9 +43,10 @@ schedule:
         location: Center 203
   - name: Friday
     events:
-      - name: Instructor OH
+      - name: Office Hours
         start: 9:00 AM
         end: 10:00 AM
+        description: Dr. Lily Weng (Prof)
         location: <a href="https://ucsd.zoom.us/j/93356632953">Zoom</a>
 ---
 <!-- schedule:

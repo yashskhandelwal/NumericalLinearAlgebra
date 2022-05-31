@@ -69,11 +69,11 @@ We understand there might be some circumstances where you may need more time to 
 
 ## Campus Policies
 
-- [UC San Diego Principles of Community ](#)
-- [UC San Diego Policy on Integrity of Scholarship](#)
-- [Religious Accommodation](#)
-- [Nondiscrimination and Harassment](#)
-- [UC San Diego Student Conduct Code](#)
+- [UC San Diego Principles of Community ](https://ucsd.edu/about/principles.html)
+- [UC San Diego Policy on Integrity of Scholarship](http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Appendices/2)
+- [Religious Accommodation](https://senate.ucsd.edu/operating-procedures/educational-policies/courses/epc-policies-on-courses/policy-exams-including-midterms-final-exams-and-religious-accommodations-for-exams/)
+- [Nondiscrimination and Harassment](https://ophd.ucsd.edu/policies-procedures/nps_student.html)
+- [UC San Diego Student Conduct Code](https://students.ucsd.edu/_files/student-conduct/ucsandiego-student-conduct-code_interim-revisions1-16-18.pdf)
 
 ## Resources for Support and Learning
 
@@ -81,4 +81,4 @@ There are a variety of resources available to students at UC San Diego, which ar
 
 ## Course Schedule
 
-The course schedule is given in detail on the [course timeline](#) page.
+The course schedule is given in detail on the [course timeline](./timeline.md) page.

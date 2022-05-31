@@ -6,4 +6,5 @@ website: https://lilyweng.github.io/
 photo: prof.jpeg
 ---
 
-[Schedule an appointment](#){: .btn .btn-outline }
+Assistant Professor, HDSI, UCSD
+

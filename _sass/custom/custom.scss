@@ -56,6 +56,17 @@ summary {
   @extend .btn, .btn-outline;
 }
 
+.logos {
+  border-radius: 50%;
+  height: 100px;
+  margin-right: $sp-4;
+}
+
+.centered {
+  display: flex;
+  justify-content: center;
+}
+
 .main-content-wrap {
   max-width: $content-width;
   margin: auto;

@@ -6,4 +6,4 @@ website: https://yashsk.com
 photo: TA.jpg
 ---
 
-Masters in Computer Science, UCSD
+MS Student, CSE, UCSD
