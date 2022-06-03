@@ -17,7 +17,7 @@ title: "DSC-291A SP'22"
 tagline: Course website for numerical linear algebra
 description: Course website for numerical linear algebra
 author: Yash Khandelwal
-baseurl: '/NumericalLinearAlgebra' # the subpath of your site, e.g. /blog
+baseurl: '/dsc-291-sp-2022' # the subpath of your site, e.g. /blog
 url: 'https://yashsk.com' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
